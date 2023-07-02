@@ -12,8 +12,6 @@
 
 ### Stats 🚀
 
-![Samer's GitHub stats](https://github-readme-stats.vercel.app/api?username=samersawan&count_private=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samersawan&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samersawan&theme=tokyonight&count_private=true&bg_color=0d1116&title_color=ce09ec)
