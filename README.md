@@ -7,7 +7,7 @@
 
 ### I'm currently working on...
 - 🍳Creating a recipe app to keep track of recipes, grocery lists, and to help me decide what to eat based on what I have in the fridge
-- 🃏Learning how to create mods on Minecraft
+- 🃏Learning React Native and Next.js
 - 📚Learning about Distributed Systems
 
 ### Stats 🚀
