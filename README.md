@@ -2,13 +2,13 @@
 
 ### About me:
 - 👨‍💻I'm currently a Software Engineering student at McGill University
-- 💻I'm interested in Distributed Systems, Data Science and AI
+- 💻I'm interested in Cloud Computing, Data Science and AI
 - 👨‍🍳In my spare time, I enjoy cooking and playing video games with friends
 
 ### I'm currently working on...
 - 🍳Creating a recipe app to keep track of recipes, grocery lists, and to help me decide what to eat based on what I have in the fridge
-- 🃏Learning React Native and Next.js
-- 📚Learning about Distributed Systems
+- 🃏Learning AWS Lambda and DynamoDB
+- 📚Learning about Cloud Computing
 
 ### Stats 🚀
 
