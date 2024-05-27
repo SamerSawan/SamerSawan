@@ -2,7 +2,7 @@
 
 ### About me:
 - 👨‍💻I'm currently a Software Engineering student at McGill University
-- 💻I'm interested in Cloud Computing, Data Science and AI
+- 💻I'm interested in Cloud Computing, Data Science, AI and Game Development
 - 👨‍🍳In my spare time, I enjoy cooking and playing video games with friends
 
 ### I'm currently working on...
