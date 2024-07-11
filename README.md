@@ -1,8 +1,8 @@
 ## Hi there, I'm Samer 👋
 
 ### About me:
-- 👨‍💻I'm currently a Software Engineering student at McGill University
-- 💻I'm interested in Data Science, AI and Game Development
+- 👨‍💻Software Engineering BSc Grad from McGill University
+- 💻I'm interested in App and Game Development, as well as Data Science
 - 👨‍🍳In my spare time, I enjoy cooking and playing video games with friends
 
 ### I'm currently working on...
