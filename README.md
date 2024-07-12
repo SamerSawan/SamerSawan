@@ -3,11 +3,10 @@
 ### About me:
 - 👨‍💻Software Engineering BSc Grad from McGill University
 - 💻I'm interested in App and Game Development, as well as Data Science
-- 👨‍🍳In my spare time, I enjoy cooking and playing video games with friends
+- 👨‍🍳In my spare time, I enjoy cooking, rock climbing, piano and reading
 
 ### I'm currently working on...
-- 🍳Creating a recipe app to keep track of recipes, grocery lists, and to help me decide what to eat based on what I have in the fridge
-- 📚Learning about Cloud Computing
+- 🍳Creating a book-borrow logger, so I can log who I borrow my books to (I keep forgetting)
 
 ### Certifications
 ![aws-certified-cloud-practitioner](https://github.com/SamerSawan/SamerSawan/assets/67536733/7f2782a9-a377-42fd-ad05-4056ac12b43b)
