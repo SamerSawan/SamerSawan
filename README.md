@@ -12,10 +12,6 @@
 ![aws-certified-cloud-practitioner](https://github.com/SamerSawan/SamerSawan/assets/67536733/7f2782a9-a377-42fd-ad05-4056ac12b43b)
 
 
-### Stats 🚀
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samersawan&theme=tokyonight&count_private=true&bg_color=0d1116&title_color=ce09ec)
-
 
 
 <!--
