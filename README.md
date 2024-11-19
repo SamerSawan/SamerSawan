@@ -1,11 +1,10 @@
 ## Hi there, I'm Samer 👋
 
-I'm a recent graduate from McGill University with a Bachelor's in Software Engineering.
+I’m a recent graduate from McGill University with a Bachelor’s in Software Engineering.
 
-I've been enjoying web development ever since I built my capstone project for my undergrad, a web version of the board game "Splendor". Since then, I've embarked on learning Go for backend web development, which has become my favourite language for backend development.
+My journey into web development started with my capstone project, a web version of the board game "Splendor." Since then, I’ve embarked on a journey with Go for backend development—its simplicity and performance make it my favorite tool to build with.
 
-I'm currently looking for a role in backend web development, preferably writing Go or Python. I'd love to work in a small team where I can contribute to exciting projects and make a significant impact on the project. If you're hiring, let's chat!
-
+I’m currently on the look out for a role in backend web development, ideally working with Go or Python. I’d especially love to join a small, close-knit team where I can contribute to exciting projects and make an impact quickly. If that sounds like you're hiring, let’s connect! You can reach me at me@samersawan.com.
 
 ### Certifications
 ![aws-certified-cloud-practitioner](https://github.com/SamerSawan/SamerSawan/assets/67536733/7f2782a9-a377-42fd-ad05-4056ac12b43b)
